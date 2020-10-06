@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="author" src="https://img.shields.io/badge/Author-WesleyRodrigues-blue">
-  <img alt="GitHub" src="https://img.shields.io/github/license/wesleywcr/">
+  <img alt="GitHub" src="https://img.shields.io/github/license/wesleywcr/MemeGenerator">
 </p>
 
 <h4 align="center"></h4>
