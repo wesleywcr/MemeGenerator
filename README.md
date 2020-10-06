@@ -36,7 +36,6 @@ This project was made using the follow technologies:
 #  Clone Repository
 $ git clone https://github.com/wesleywcr/MemeGenerator.git 
 # Install Dependencies
-$ cd web
 $ yarn install
 $ yarn start
 
